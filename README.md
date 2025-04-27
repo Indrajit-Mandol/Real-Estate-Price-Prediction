@@ -35,8 +35,6 @@ To generate a requirements.txt file, navigate to the terminal and run this code 
 
 7. Fianal deploy in streamlit website create account or sign in streamlit.io and deploy final web app.
 
-## ✍️ Author
-- [Shanu Halli](https://github.com/shanuhalli)
 
 <div align="center">
 <img src="https://avatars.githubusercontent.com/u/109328924?v=4" width="200"/>
