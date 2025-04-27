@@ -36,14 +36,3 @@ To generate a requirements.txt file, navigate to the terminal and run this code 
 7. Fianal deploy in streamlit website create account or sign in streamlit.io and deploy final web app.
 
 
-<div align="center">
-<img src="https://avatars.githubusercontent.com/u/109328924?v=4" width="200"/>
-<h3> Connect with me </a>
-</h3> 
-<p align="center">
-    <a href="https://www.linkedin.com/in/hallishanu" target="_blank"><img alt="LinkedIn" width="25px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"></a> &nbsp&nbsp&nbsp
-    <a href="https://www.instagram.com/shanu_halli" target="_blank"><img alt="Instagram" width="25px" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png"></a> &nbsp&nbsp&nbsp
-    <a href="https://www.facebook.com/hallishanu" target="_blank"><img alt="Facebook" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"></a> &nbsp&nbsp&nbsp
-    <a href="mailto:shanuhalli@gmail.com" target="_blank"><img alt="Gmail" width="25px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"></a>&nbsp&nbsp&nbsp
-    <a href="https://api.whatsapp.com/send/?phone=%2B919860934650&text&type=phone_number&app_absent=0" target="_blank"><img alt="Whatsapp" width="25px" src="https://cdn-icons-png.flaticon.com/512/5968/5968841.png"></a>
-</p> 
